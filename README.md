@@ -37,4 +37,4 @@ People injured and killed during gun violence
 Project is completed
 
 ## Contact
-Can contact me via my mail. [missewoudiane@gmail.com](missewoudiane@gmail.com) 
+Can contact me via my mail. [missewoudiane@gmail.com](missewoudiane@gmail.com). 
