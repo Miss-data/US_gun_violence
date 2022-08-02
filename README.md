@@ -13,7 +13,7 @@ Visualizing and analyzing data about US_Gun Violence from 2013 to 2019
 This is an exploration data analysis on US Gun Violence data from 2013 to 2019, The aim of the project is to determine period and location where gun violence happens more in US.making while chosing college majors. Graphs are used to do exploratory analysis, the data has 239677 observations and 24 variables.
 
 ## Screenshots
-![Screenshot 1](./GV.NG)
+![Screenshot 1](./GV.PNG)
 ![Screenshot 2](./GV1.PNG)
 ![Screenshot 3](./GV2.PNG)
 ![Screenshot 3](./GV3.PNG)
