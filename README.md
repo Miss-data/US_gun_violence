@@ -34,7 +34,7 @@ Location with high occurence of gun violence
 People injured and killed during gun violence 
 
 ## Status
-Project is finished
+Project is completed
 
 ## Contact
 Can contact me via my mail. [missewoudiane@gmail.com](missewoudiane@gmail.com) 
