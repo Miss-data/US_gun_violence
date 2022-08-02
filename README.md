@@ -30,7 +30,7 @@ seaborn as sns
 ## Findings
 Evolution of US gun violence in time 
 Period with high occurence of gun violence
-Location with high occurence of gun violence 
+Location with high occurence of gun violence .
 People injured and killed during gun violence 
 
 ## Status
